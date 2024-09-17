@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+.herosection{
+    background-image: url(../assets/images/appbg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: auto;
+    height: 920px;
+    text-align: center;
+    align-content: center;
+}
+
+.formbg{
+    background-color: rgba(250, 235, 215, 0.832);
+    width: 45%;
+    margin: auto;
+    padding: 130px 0 130px 0;
+}
